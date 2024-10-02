@@ -8,16 +8,15 @@ Bem-vindo ao meu portfólio! Este repositório é uma porta de entrada para o me
 
 Olá! Eu sou o Kauã, um desenvolvedor full stack. Tenho conhecimentos em diversas tecnologias e linguagens de programação, e estou sempre em busca de novos desafios.
 
-- **Nome:** Kauã Onorato
-- **Email:** [kauaonorato.dev@gmail.com](mailto:kauaonorato.dev@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/kauaonorato](https://www.linkedin.com/in/kauaonorato/)
-- **Portfólio:** [https://portifolio-six-lilac.vercel.app](https://portifolio-six-lilac.vercel.app)
+## 🚀 O que faço:
+- **Desenvolvimento Full Stack**: Trabalho tanto no frontend quanto no backend, com foco em criar aplicações robustas e intuitivas.
+- **Exploração de IA**: Fascinado por inteligência artificial, gosto de experimentar novas tecnologias e gerar soluções criativas usando IA.
+- **Automação e Otimização**: Adoro simplificar processos complexos, seja por meio de scripts ou ferramentas, para tornar o trabalho mais eficiente.
 
----
-
-## 🚀 Tecnologias e Ferramentas
-
-Aqui estão algumas das tecnologias e ferramentas que eu utilizo frequentemente:
+## 🛠️ Tecnologias que uso:
+- **Linguagens**: Python, JavaScript, TypeScript
+- **Ferramentas**: Docker, Git, Django, Flask, Node.js, React, Express
+- **Outros**: APIs RESTful, Bancos de dados (SQL/NoSQL), Controle de versão com Git
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
