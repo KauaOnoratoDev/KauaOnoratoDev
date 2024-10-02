@@ -58,6 +58,9 @@ Aqui estão algumas das tecnologias e ferramentas que eu utilizo frequentemente:
 
 Se você deseja entrar em contato comigo, sinta-se à vontade para enviar um email ou conectar-se pelo LinkedIn. Estou sempre aberto a discutir novos projetos, oportunidades de colaboração ou apenas trocar ideias.
 
+- **Email:** [kauaonorato.dev@gmail.com](mailto:kauaonorato.dev@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/kauaonorato](https://www.linkedin.com/in/kauaonorato/)
+- **Celular:** 65 999128926
 ---
 
 Obrigado por visitar meu portfólio! 😊
