@@ -1,16 +1,63 @@
-## Hi there 👋
+# 💻 Meu Portfólio de Programação
 
-<!--
-**KauaOnoratoDev/KauaOnoratoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu portfólio! Este repositório é uma porta de entrada para o meu github, nele você encontrará diversos repositórios que demonstram minhas habilidades e realizações na área de desenvolvimento de software. Fique à vontade para explorar, dar feedback e contribuir.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre Mim
+
+Olá! Eu sou o Kauã, um desenvolvedor full stack. Tenho conhecimentos em diversas tecnologias e linguagens de programação, e estou sempre em busca de novos desafios.
+
+- **Nome:** Kauã Onorato
+- **Email:** [kauaonorato.dev@gmail.com](mailto:kauaonorato.dev@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/kauaonorato](https://www.linkedin.com/in/kauaonorato/)
+- **Portfólio:** [https://portifolio-six-lilac.vercel.app](https://portifolio-six-lilac.vercel.app)
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+Aqui estão algumas das tecnologias e ferramentas que eu utilizo frequentemente:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+
+---
+
+## 📂 Alguns dos meus Projetos
+
+### [Projeto 1: Fake twitter](https://kauaonorato.pythonanywhere.com)
+- **Descrição:** Um projeto full stack desenvolvido usando o framework Django, este projeto simula um twitter, com posts e usuários, tudo integrado com uma base de dados.
+- **Tecnologias:** Python, Django
+
+### [Projeto 2: eFood](https://efood-react-mu.vercel.app)
+- **Descrição:** Um projeto front end desenvolvido usando o framework React, este projeto simula um eCommerce de restaurantes, cada um com seu próprio cardápio, a aplicação faz o consumo de uma Api simulada.
+- **Tecnologias:** TypeScript, React
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KauaOnoratoDev&show_icons=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaOnoratoDev&layout=compact&theme=radical)
+
+---
+
+## 📫 Contato
+
+Se você deseja entrar em contato comigo, sinta-se à vontade para enviar um email ou conectar-se pelo LinkedIn. Estou sempre aberto a discutir novos projetos, oportunidades de colaboração ou apenas trocar ideias.
+
+---
+
+Obrigado por visitar meu portfólio! 😊
