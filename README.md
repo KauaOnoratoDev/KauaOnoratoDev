@@ -6,23 +6,19 @@ Bem-vindo ao meu portfólio! Este repositório é uma porta de entrada para o me
 
 ## 🧑‍💻 Sobre Mim
 
-Olá! Eu sou o Kauã, um desenvolvedor full stack. Tenho conhecimentos em diversas tecnologias e linguagens de programação, e estou sempre em busca de novos desafios.
+Olá! Eu sou o Kauã, um engenheiro de dados. Tenho conhecimentos em diversas tecnologias e linguagens de programação, e estou sempre em busca de novos desafios.
 
 ## 🚀 O que faço:
-- **Desenvolvimento Full Stack**: Trabalho tanto no frontend quanto no backend, com foco em criar aplicações robustas e intuitivas.
-- **Exploração de IA**: Fascinado por inteligência artificial, gosto de experimentar novas tecnologias e gerar soluções criativas usando IA.
-- **Automação e Otimização**: Adoro simplificar processos complexos, seja por meio de scripts ou ferramentas, para tornar o trabalho mais eficiente.
+- **Engenharia de Dados: Atuo no desenvolvimento de pipelines de dados eficientes, desde a ingestão até o armazenamento e transformação, garantindo escalabilidade, qualidade e performance.
+- **Exploração de IA: Entusiasta de inteligência artificial, busco integrar modelos e soluções de IA ao pipeline de dados para gerar insights e automações inteligentes.
 
 ## 🛠️ Tecnologias que uso:
 - **Linguagens**: Python, JavaScript, TypeScript
-- **Ferramentas**: Docker, Git, Django, Flask, Node.js, React, Express
-- **Outros**: APIs RESTful, Bancos de dados (SQL/NoSQL), Controle de versão com Git
+- **Ferramentas**: Docker, Git, Spark, Hadoop, Microsoft Fabric
+- **Outros**: Consumo de APIs RESTful, Bancos de dados (SQL/NoSQL), Controle de versão com Git
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -35,13 +31,9 @@ Olá! Eu sou o Kauã, um desenvolvedor full stack. Tenho conhecimentos em divers
 
 ## 📂 Alguns dos meus Projetos
 
-### [Projeto 1: Fake twitter](https://kauaonorato.pythonanywhere.com)
-- **Descrição:** Um projeto full stack desenvolvido usando o framework Django, este projeto simula um twitter, com posts e usuários, tudo integrado com uma base de dados.
-- **Tecnologias:** Python, Django
-
-### [Projeto 2: eFood](https://efood-react-mu.vercel.app)
-- **Descrição:** Um projeto front end desenvolvido usando o framework React, este projeto simula um eCommerce de restaurantes, cada um com seu próprio cardápio, a aplicação faz o consumo de uma Api simulada.
-- **Tecnologias:** TypeScript, React
+### [Projeto 1: Medallion spark and hadoop](https://github.com/KauaOnoratoDev/medallion-spark-and-hadoop)
+- **Descrição:** Projeto de engenharia de dados que simula um aplicativo de varejo, onde pedidos são inseridos em um banco de dados e processados com a arquitetura em camadas do modelo Medallion (Bronze, Silver e Gold), utilizando PySpark. Os dados são transformados e armazenados em formato Parquet no HDFS.
+- **Tecnologias:** Python, Apache Spark, Apache Hadoop(HDFS)
 
 ---
 
