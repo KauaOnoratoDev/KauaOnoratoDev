@@ -6,11 +6,12 @@ Bem-vindo ao meu portfólio! Este repositório é uma porta de entrada para o me
 
 ## 🧑‍💻 Sobre Mim
 
-Olá! Eu sou o Kauã, um engenheiro de dados. Tenho conhecimentos em diversas tecnologias e linguagens de programação, e estou sempre em busca de novos desafios.
+Olá! Eu sou o Kauã. Tenho conhecimentos em diversas tecnologias e linguagens de programação, e estou sempre em busca de novos desafios.
 
 ## 🚀 O que faço:
 - **Engenharia de Dados: Atuo no desenvolvimento de pipelines de dados eficientes, desde a ingestão até o armazenamento e transformação, garantindo escalabilidade, qualidade e performance.
 - **Exploração de IA: Entusiasta de inteligência artificial, busco integrar modelos e soluções de IA ao pipeline de dados para gerar insights e automações inteligentes.
+- **Desenvolvimento de aplicacoes Web com foco em backend.
 
 ## 🛠️ Tecnologias que uso:
 - **Linguagens**: Python, JavaScript, TypeScript
