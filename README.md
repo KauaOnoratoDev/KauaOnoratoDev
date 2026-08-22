@@ -32,9 +32,9 @@ Olá! Eu sou o Kauã. Tenho conhecimentos em diversas tecnologias e linguagens d
 
 ## 📂 Alguns dos meus Projetos
 
-### [Projeto 1: Medallion spark and hadoop](https://github.com/KauaOnoratoDev/medallion-spark-and-hadoop)
-- **Descrição:** Projeto de engenharia de dados que simula um aplicativo de varejo, onde pedidos são inseridos em um banco de dados e processados com a arquitetura em camadas do modelo Medallion (Bronze, Silver e Gold), utilizando PySpark. Os dados são transformados e armazenados em formato Parquet no HDFS.
-- **Tecnologias:** Python, Apache Spark, Apache Hadoop(HDFS)
+### [Projeto 1: Forge AI](https://github.com/KauaOnoratoDev/forge-ai)
+- **Descrição:** Forge AI é uma plataforma full stack de desenvolvimento assistido por IA que transforma ideias em aplicações funcionais por meio de agentes especializados de Planner e Developer, com planejamento, geração de código, execução isolada e entrega automatizada de projetos.
+- **Tecnologias:** Typescript, API OpenAi, BullMQ, Postgresql
 
 ---
 
